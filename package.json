@@ -1,0 +1,12 @@
+{
+  "name": "node-scripts",
+  "version": "1.0.0",
+  "description": "Node.js scripts for audio processing",
+  "main": "convert.js",
+  "scripts": {
+    "start": "node convert.js"
+  },
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
