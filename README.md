@@ -1,12 +1,6 @@
 <div align="center">
-  
-  <img width="192" title="Vertibus" src="https://github.com/Keito-Klein.png"/>
 
-</div>
-
-<div align="center">
-
-  <img title="Vertibus" src="https://img.shields.io/badge/Vertibus-yellow?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
+  <img title="Converter" src="https://img.shields.io/badge/Converter-yellow?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
 
 </div>
 
@@ -14,12 +8,12 @@
 
 
 <div align="center">  
-  <a href="https://github.com/Keito-Klein">
-    <img title="Keito-Klein" src="https://img.shields.io/badge/AUTHOR-MiKako-orange.svg?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/RynXD-Host">
+    <img title="RynXD-Host" src="https://img.shields.io/badge/AUTHOR-RynXD-orange.svg?style=for-the-badge&logo=github"></a>
 </div>
 
 <br>
-<p> Pls Help me build this bot. I want to add any feature about toram online</p>
+<p> Rest API Flask & nodejs for converting audio to text</p>
 
 
 ***Bot WhatsApp with Toram Online Guide Create with NodeJS Using Library [Baileys](https://github.com/WhiskeySockets/Baileys)***
