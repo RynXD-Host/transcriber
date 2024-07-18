@@ -16,17 +16,15 @@
 <p> Rest API Flask & nodejs for converting audio to text</p>
 
 
-***Bot WhatsApp with Toram Online Guide Create with NodeJS Using Library [Baileys](https://github.com/WhiskeySockets/Baileys)***
-
 <p align="center">
 
-**This Bot Support on :**
+**This API Support on :**
 </p>
 
 <p align="center">
-  <img title="Whatsapp-Bot-Termux" src="https://img.shields.io/badge/Termux-302c2c?style=for-the-badge&logo=iterm2&logoColor=000000"></img>
-  <img title="Whatsapp-Bot-Replit" src="https://img.shields.io/badge/replit-3b1903?style=for-the-badge&logo=replit&logoColor=F26207"></img>
-  <img title="Whatsapp-Bot-Railway" src="https://img.shields.io/badge/railway-362b2b?style=for-the-badge&logo=railway&logoColor=0B0D0E"></img>
+  <img title="Linux" src="https://img.shields.io/badge/Linux-302c2c?style=for-the-badge&logo=iterm2&logoColor=000000"></img>
+  <img title="Whatsapp-Bot-Replit" src="https://img.shields.io/badge/Windows-302c2c?style=for-the-badge&logo=iterm2&logoColor=000000"></img>
+  <img title="Whatsapp-Bot-Railway" src="https://img.shields.io/badge/Docker-302c2c?style=for-the-badge&logo=iterm2&logoColor=000000"></img>
 </p>
 
 ## Getting Started
